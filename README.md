@@ -125,4 +125,6 @@ This standard is released into public view under community guardianship.
 - [CST Standard v1 (PDF)](https://raw.githubusercontent.com/tartarys-archive/cst-standard/main/paper/CST_Standard_v1.pdf)
 
 
+This document defines the Cultural Signature Token (CST) standard v1.0
+and is maintained under the guardianship principles of the Tartarys project.
 
