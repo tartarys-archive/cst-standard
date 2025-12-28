@@ -121,5 +121,8 @@ This standard is released into public view under community guardianship.
 
 ---
 ## Standard Document
+
+- [CST Standard v1 (PDF)](https://raw.githubusercontent.com/tartarys-archie/cst-standard/main/paper/CULTURAL SIGNATURE TOKEN (CST) (2) (1).pdf)
+
 - [CST Standard v1 (PDF)](https://raw.githubusercontent.com/tartarys-archive/cst-standard/main/paper/CST_Standard_v1.pdf)
 
