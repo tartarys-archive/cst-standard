@@ -1,14 +1,14 @@
 # cst-standard
-Cultural &amp; Spiritual Token (CST) Standard – community-guarded value recognition framework
+Cultural Signature Token (CST) Standard – community-guarded value recognition framework
 # CST Standard (v1)
 
-**Cultural & Spiritual Token Standard**
+**Cultural Signature Token Standard**
 
 ---
 
 ## Overview
 
-The CST (Cultural & Spiritual Token) Standard defines a framework for minting digital tokens backed by **physical and intellectual cultural heritage**, under **community guardianship** rather than centralized ownership.
+The CST (Cultural Signature Token) Standard defines a framework for minting digital tokens backed by **physical and intellectual cultural heritage**, under **community guardianship** rather than centralized ownership.
 
 The standard is designed to enable value creation **without immediate financial barriers**, allowing communities to recognize, protect, and support cultural and creative contributions through transparent, ethical mechanisms.
 
