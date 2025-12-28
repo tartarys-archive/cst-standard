@@ -122,6 +122,7 @@ This standard is released into public view under community guardianship.
 ---
 ## Standard Document
 
-[CST Standard v1 (PDF)](paper/CST_Standard_v1_final.pdf)
+- [CST Standard v1 (PDF)](https://raw.githubusercontent.com/tartarys-archive/cst-standard/main/paper/CST_Standard_v1.pdf)
+
 
 
