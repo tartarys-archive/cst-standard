@@ -120,6 +120,9 @@ For context and governance framework, see the Tartarys Whitepaper repository.
 This standard is released into public view under community guardianship.
 
 ---
+## Standard Document
+
+- [CST Standard v1 (PDF)](./paper/CST_Standard_v1.pdf)
 
 *Value begins with recognition.*  
 *Recognition begins with witnesses.*
